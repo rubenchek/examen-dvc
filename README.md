@@ -9,7 +9,8 @@ Dans ce dépôt vous trouverez l'architecture proposé pour mettre en place la s
 │   ├── metrics       
 │   ├── models      
 │   │   ├── data      
-│   │   └── models        
+│   │   └── models    
+│   ├── notebooks       
 │   ├── src       
 │   └── README.md.py       
 ```
