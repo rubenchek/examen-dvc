@@ -2,7 +2,6 @@ import pandas as pd
 import pickle
 import os
 import logging
-from sklearn.model_selection import GridSearchCV
 from sklearn.ensemble import RandomForestRegressor
 
 
