@@ -27,7 +27,7 @@ def process_data(input_filepath, output_filepath):
 
     # Split data into training and testing sets
     X_train, X_test, y_train, y_test = split_data(df)
-
+    
     # Save dataframes to their respective output file paths
     save_dataframes(X_train, X_test, y_train, y_test, output_filepath)
 
